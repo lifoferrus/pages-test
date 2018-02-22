@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test page hosted on pages.github.io
 
 You can use the [editor on GitHub](https://github.com/lifoferrus/pages-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
